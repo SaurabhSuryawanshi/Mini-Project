@@ -13,17 +13,14 @@ Features
 
 - Data Exploration: Comprehensive analysis of the dataset to identify trends and patterns.
 - Model Development: Implementation of machine learning models such as [e.g., Logistic Regression, Decision Trees].
-- Performance Metrics: Metrics like accuracy, RMSE, or MAE for evaluation.
+- Performance Metrics: Metrics like accuracy, RMSE for evaluation.
 
 Workflow
 
 - Data Preprocessing:- Handle missing values.
 - Normalize or scale the features.
 - Split the dataset into training and testing sets.
-
 - Model Training:- Train machine learning models using training data.
-- Tune hyperparameters to improve performance.
-
 - Model Evaluation:- Use test data to evaluate the model's accuracy.
 - Generate visualizations for better insights (e.g., plots of predicted vs actual values).
 
