@@ -1,21 +1,21 @@
-Overview
+Overview:
 
 This project focuses on developing a machine learning model to [Credit Card Approval].
 
-Introduction
+Introduction:
 
 This project aims to leverage machine learning techniques.
 Machine learning enables systems to learn from data and make predictions or decisions without being explicitly programmed.
 By the end of this project, we aim to develop a reliable and accurate model that demonstrates [credit card approval].
 The repository provides all the resources and instructions needed to reproduce the results.
 
-Features
+Features:
 
 - Data Exploration: Comprehensive analysis of the dataset to identify trends and patterns.
 - Model Development: Implementation of machine learning models such as [e.g., Logistic Regression, Decision Trees].
 - Performance Metrics: Metrics like accuracy, RMSE for evaluation.
 
-Workflow
+Workflow:
 
 - Data Preprocessing:- Handle missing values.
 - Normalize or scale the features.
